@@ -1,0 +1,13 @@
+tr{
+    width: 1px;
+    height: 10px;
+}
+table{
+    border-collapse: collapse;
+}
+#form{
+    height: 0px;
+}
+td{
+    border: 1px solid;
+}
